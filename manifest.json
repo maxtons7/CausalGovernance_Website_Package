@@ -1,16 +1,11 @@
 
 {
-    "name": "Causal Governance Framework",
-    "short_name": "CGF",
-    "start_url": "/",
-    "display": "standalone",
-    "background_color": "#ffffff",
-    "theme_color": "#00274d",
-    "icons": [
-        {
-            "src": "assets/images/favicon.ico",
-            "sizes": "32x32",
-            "type": "image/x-icon"
-        }
-    ]
+  "name": "Causal Governance Framework",
+  "short_name": "CGF",
+  "description": "An evolving governance and institutional-design framework and the home of the Causal Resilience research programme.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f5f3ee",
+  "theme_color": "#071728"
 }
