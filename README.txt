@@ -1,6 +1,16 @@
+Causal Governance Framework website
 
-Deployment Instructions:
-1. Upload the entire folder to Netlify or your static hosting provider.
-2. Ensure DNS settings point to your Netlify nameservers from your domain registrar.
-3. Allow 24–48 hours for propagation.
-4. Customise brand images and manifesto text as needed.
+This repository contains the static public website for the Causal Governance
+Framework and its principal research programme, Causal Resilience.
+
+Site files:
+- index.html: page structure, content and metadata
+- style.css: layout, visual system and responsive rules
+- og.png: social-link preview image and browser icon
+- manifest.json: web-app metadata
+- robots.txt: crawler instructions
+- CNAME: live custom-domain configuration
+
+The site can be previewed with any local static-file server. Before deployment,
+validate the HTML and CSS, test keyboard and responsive behaviour, check links,
+and confirm that CNAME remains aligned with the live hosting configuration.
